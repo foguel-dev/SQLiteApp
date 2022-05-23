@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/drawable/bg_custom_button.xml" value="0.3125" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/drawable/bg_details_clients.xml" value="0.334" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/drawable/bg_list.xml" value="0.3125" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/drawable/bg_separator.xml" value="0.3175" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/drawable/splash_background.xml" value="0.25" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/layout/activity_clientes.xml" value="0.25" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/layout/activity_detalle_cliente.xml" value="0.3484375" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/layout/activity_nuevos_clientes.xml" value="0.25" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/layout/activity_splash.xml" value="0.3484375" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/layout/item_clientes.xml" value="0.33" />
+        <entry key="..\:/Users/HP PAVILION 15/Desktop/FlutterApps/FamaApp/app/src/main/res/menu/menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
