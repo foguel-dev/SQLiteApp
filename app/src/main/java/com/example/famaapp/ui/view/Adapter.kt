@@ -19,6 +19,9 @@ class Adapter (private val mContext: Context, private val listaClientes:List<Cli
 
         val clientes = listaClientes[position]
 
+        val firstLetter = clientes.nombre!!.substring( 0 , 1 ).toUpperCase()
+        layout.tv_avatar.text = firstLetter
+
         layout.tv_nombre_item.text = clientes.nombre
         layout.tv_departamento_item.text = clientes.departamentoNegocio
         layout.tv_municipio_item.text = clientes.municipioNegocio
